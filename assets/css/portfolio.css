@@ -1,0 +1,9 @@
+
+.navbar {
+    background-color: brown;
+  }
+  
+  .navbar-item{
+    display: flex;
+    }
+    
